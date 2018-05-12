@@ -1,0 +1,40 @@
+_repo: Gli-albori-della-vita-ItalianaConferenze-tenute-a-Firenze-nel-1890_45638
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45638-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2014-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45638'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian literature -- To 1400 -- History and criticism'
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 476-1492'
+- !lcsh 'Italy -- Civilization'
+tableOfContents: Preludio / Olindo Guerrini -- Le origini del comune di Firenze /
+  Pasquale Villari -- Venezia e le repubbliche marinare / Pompeo Molmenti -- Le origini
+  del comune di Milano / Romualdo Bonfadini -- Le origini della monarchia in Piemonte
+  / Romualdo Bonfadini -- Le origini della monarchia a Napoli / Ruggero Bonghi --
+  Le origini del papato e del comune di Roma / Arturo Graf -- Gli ordini religiosi
+  e l'eresia / Felice Tocco -- Le origini della lingua italiana / Pio Rajna -- Le
+  origini della letteratura italiana / Adolfo Bartoli -- Le università e il diritto
+  / Francesco Schupfer -- La filosofia e la scienza nel periodo delle origini / Giacomo
+  Barzellotti -- Le origini dell'arte nuova / Enrico Panzacchi -- Epilogo / Ernesto
+  Masi.
+title: 'Gli albori della vita Italiana
+
+  Conferenze tenute a Firenze nel 1890'
+url: http://www.gutenberg.org/ebooks/45638
